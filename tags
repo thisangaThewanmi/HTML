@@ -12,3 +12,40 @@ time we can get a dummy paragraph by typing loreum and pressing the tab.
 
 <img> tag
 Image tag is used when we need to add a image there are different attributes we can add to this like
+
+<h1> - <h6> tag
+These are the heading tags and the largest is the <h1 tag > and the fot size decreases a bit y bit when it
+comes to<h6>  literally <h6> is the smallest
+
+<b> tag
+This is used when we need to bold a text
+
+<i> tag
+This is used when we need to italic a text
+
+<u> tag
+This is used when we need to underline a text
+
+<strike> tag
+This is used when we need to cut the word using a line
+
+<small> tag
+this is used when we need to get a smaller font size than the current exsisting
+
+<strong> tag
+This is used when we need to display the context in a strong way
+
+<tt> tag
+This gives the typewriter font
+
+<sub> tag
+This is called the subscript tag and this used when you need to write something below the line
+
+<sup> tag
+This is called the superscript tag and this used when you need to write something above the line
+
+<pre> tag
+This is called tht pre formatted tag and mekedi api conole eke gahana wididhatamaiii web eketh pennane
+
+<blockquote> tag
+This is known as the blockqote tag and mekedi  wena mokakin hari gatte kila pennana on unama use karanawa
