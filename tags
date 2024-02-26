@@ -1,0 +1,14 @@
+
+
+<em> tag
+The <em> tag is used to define emphasized text.
+The content inside is typically displayed in italic.
+A screen reader will pronounce the words in <em> with an emphasis, using verbal stress.
+
+
+<p> tag
+This is the paragraph tag we use this when we need to write a paragraph and also at the same
+time we can get a dummy paragraph by typing loreum and pressing the tab.
+
+<img> tag
+Image tag is used when we need to add a image there are different attributes we can add to this like
